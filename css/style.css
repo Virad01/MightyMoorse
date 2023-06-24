@@ -115,7 +115,7 @@ table, td, th {
 }
 
 body {
-  background-color: #f4d3d330;
+  background-color: #eeee;
   background-image: url(../img/bg.png);
   background-repeat: repeat;
   background-position: top;
@@ -138,12 +138,7 @@ body {
   min-width: 0;
 }
 
-/*
-(i) Стили будут применяться ко 
-всем классам содержащим *__container
-Например header__container, main__container и т.д.
-Снипет (HTML): cnt
-*/
+
 [class*=__container] {
   max-width: 72.75rem;
   box-sizing: content-box;
@@ -276,13 +271,13 @@ body {
 }
 
 .text-accent_violet {
-  color: #c51bf0;
+  color: #141e61;
 }
 .text-accent_aqua {
-  color: #5eecff;
+  color: #141e61;
 }
 .text-accent_orange {
-  color: #f17e14;
+  color: #787a91;
 }
 
 ._glass-blured {
