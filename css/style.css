@@ -528,7 +528,7 @@ body {
 }
 .triangeled-list__item {
   font-family: "Roboto Mono";
-  color: #e6e6e6;
+  color: #060606;
   position: relative;
   padding-right: 0.75rem;
 }
@@ -1307,7 +1307,7 @@ body {
   height: 100vh;
   position: fixed;
   z-index: 10;
-  background: #F4D3D3;
+  background: #eeee;
 }
 
 #preload-text-position-holder {
@@ -1643,7 +1643,7 @@ body::after {
 }
 .text-popup__description {
   flex: 0 1 472px;
-  color: #e6e6e6;
+  color: #000000;
   font-size: 20px;
   line-height: 30px;
 }
@@ -2589,7 +2589,7 @@ body::after {
   }
 }
 .offer-cadr__text {
-  color: #e6e6e6;
+  color: #000000;
 }
 @supports (font-size: clamp( 1rem , 0.85rem  +  0.6666666667vw , 1.25rem )) {
   .offer-cadr__text {
@@ -4138,7 +4138,7 @@ button::-moz-focus-inner {
   }
 }
 .choose-card__text {
-  color: #e6e6e6;
+  color: #000000;
 }
 @supports (font-size: clamp( 1rem , 0.85rem  +  0.6666666667vw , 1.25rem )) {
   .choose-card__text {
