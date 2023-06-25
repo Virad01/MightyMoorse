@@ -1031,7 +1031,7 @@ body {
   width: 100%;
 }
 
-@media (max-width: 720px) {
+@media (max-width: 670px) {
   .menu {
     width: 100%;
   }
