@@ -116,9 +116,10 @@ table, td, th {
 
 body {
   background-color: #eeee;
-  background-image: url(../img/bg.png);
-  background-repeat: repeat;
+  background-image: url(../img/home/liquid-cheese.svg);
+  background-repeat:repeat-y;
   background-position: top;
+  background-size: cover;
   position: relative;
 }
 .lock body {
@@ -193,11 +194,13 @@ body {
   content: "";
   display: block;
   position: absolute;
-  height: 1992px;
-  background-image: url(../img/moon.png);
-  background-repeat: no-repeat;
+  height: 1998px;
+  /* width: 100%; */
+  background-image: url();
+  background-repeat: repeat;
   background-size: contain;
   z-index: -1;
+ 
 }
 @supports (width: clamp( 50.8125rem , 6.6rem  +  196.5vw , 124.5rem )) {
   .wrapper::before {
