@@ -1109,7 +1109,7 @@ body {
   width: 0;
   height: 2px;
   content: "";
-  background-color: #f17e14;
+  background-color: #0F044C;
   transition: all 0.3s ease-in-out;
   display: block;
   position: absolute;
@@ -1122,7 +1122,7 @@ body {
 }
 .menu__item_gradient {
   font-weight: 550;
-  background: linear-gradient(87.01deg, #6d9be3 3.39%, #aadfc1 32.8%, #f4cd63 61.74%, #eb672d 94.48%);
+  background: linear-gradient(87.01deg, #0F044C 3.39%, #141E61 32.8%, #787a91 61.74%, #141E61 94.48%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -1310,11 +1310,13 @@ body {
   height: 100vh;
   position: fixed;
   z-index: 10;
-  background: #eeee;
+  background: #eee;
+  text-align: center;
 }
 
 #preload-text-position-holder {
   opacity: 0;
+  text-align: center;
 }
 
 #preload-text-original {
@@ -1322,6 +1324,7 @@ body {
   left: 0;
   white-space: nowrap;
   top: 46vh;
+  
 }
 
 .media-block_animated {
