@@ -280,7 +280,7 @@ body {
   color: #141e61;
 }
 .text-accent_orange {
-  color: #787a91;
+  color: #575861;
 }
 
 ._glass-blured {
@@ -531,7 +531,7 @@ body {
 }
 .triangeled-list__item {
   font-family: "Roboto Mono";
-  color: #060606;
+  color: #000000;
   position: relative;
   padding-right: 0.75rem;
 }
@@ -578,7 +578,7 @@ body {
   display: block;
   width: 24px;
   height: 24px;
-  background-image: url(../img/icons/orangeFillArrow.svg);
+  /* background-image: url(../img/icons/orangeFillArrow.svg); */
 }
 @supports (top: clamp( 0.00000625rem , -0.14999rem  +  0.66665vw , 0.25rem )) {
   .triangeled-list__item::before {
@@ -1285,7 +1285,7 @@ body {
   width: 0;
   height: 2px;
   content: "";
-  background-color: #f17e14;
+  background-color: #000000;
   transition: all 0.3s ease-in-out;
   display: block;
   position: absolute;
@@ -1562,7 +1562,7 @@ body::after {
 
 .animated-line {
   height: 2px;
-  background-color: #f17e14;
+  background-color: #0b0b0b;
   transition: width 0.3s ease-in-out 0s;
 }
 @supports (width: clamp( 4.25rem , 2.7983870968rem  +  6.4516129032vw , 7.75rem )) {
