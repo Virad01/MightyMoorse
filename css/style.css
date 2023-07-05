@@ -4289,7 +4289,7 @@ button::-moz-focus-inner {
   flex-direction: column;
 }
 .cascade-slider .cascade-item {
-  background: rgba(24, 28, 31, 0.8);
+  background: rgba(255, 255, 255, 0.8);
 }
 
 .cascade-item {
