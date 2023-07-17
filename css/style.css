@@ -1031,7 +1031,7 @@ body {
   }
 }
 .header img {
-  width: 100%;
+  width: 75%;
 }
 
 @media (max-width: 670px) {
