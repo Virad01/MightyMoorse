@@ -3727,8 +3727,9 @@ button::-moz-focus-inner {
   object-fit: cover;
 }
 .stories-slide__text {
-  font-family: "Roboto Mono";
+  /* font-family: "Roboto Mono"; */
   line-height: 1.5;
+  font-weight: 700;
 }
 @supports (font-size: clamp( 1rem , 0.7926267281rem  +  0.9216589862vw , 1.5rem )) {
   .stories-slide__text {
@@ -4823,7 +4824,7 @@ button::-moz-focus-inner {
   box-shadow: -40vmin 0 5.655115063706372vmin currentColor;
 }
 .background span:nth-child(27) {
-  color: #141E61;
+  color: #787A91;
   top: 54%;
   left: 81%;
   animation-duration: 8s;
