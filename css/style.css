@@ -1062,7 +1062,7 @@ table, td, th {
 .menu__item {
   flex: 0 0 auto;
   position: relative;
-  font-weight:700 ;
+  font-weight:600 ;
 
 }
 @supports (font-size: clamp( 1.125rem , 1.05rem  +  0.3333333333vw , 1.25rem )) {
