@@ -989,7 +989,7 @@ table, td, th {
     }
   }
 }
-@media (max-width: 720px) {
+@media (max-width:720px) {
   .header__wrapper {
     border-bottom: none;
   }
@@ -1046,7 +1046,7 @@ table, td, th {
   align-items: center;
   overflow-x: scroll;
   overflow-y: hidden;
-  padding: 0 5rem;
+  padding: 0 4.5rem;
   margin: 0 -5rem;
   scrollbar-width: none;
   
