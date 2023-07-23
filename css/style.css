@@ -1260,7 +1260,7 @@ table, td, th {
 }
 .menu-footer__item {
   position: relative;
-  font-weight:800 ;
+  font-weight:600 ;
 }
 @supports (font-size: clamp( 1.25rem , 1.1rem  +  0.6666666667vw , 1.5rem )) {
   .menu-footer__item {
@@ -4823,7 +4823,7 @@ button::-moz-focus-inner {
   transform-origin: -16vw 25vh;
   box-shadow: -40vmin 0 5.655115063706372vmin currentColor;
 }
-.background span:nth-child(27) {
+/* .background span:nth-child(27) {
   color: #787A91;
   top: 54%;
   left: 81%;
@@ -4831,4 +4831,4 @@ button::-moz-focus-inner {
   animation-delay: -20s;
   transform-origin: -16vw 25vh;
   box-shadow: -40vmin 0 5.655115063706372vmin currentColor;
-}
+} */
