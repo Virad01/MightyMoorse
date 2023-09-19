@@ -114,14 +114,14 @@ table, td, th {
   vertical-align: middle;
 }
 
-/* body {
+body {
   background-color: #eeee;
   background-image: url(../img/liquid-cheese.svg);
   background-repeat:repeat-y;
   background-position: top;
   background-size: cover;
   position: relative;
-} */
+}
 .lock body {
   overflow: hidden;
   touch-action: none;
@@ -4550,7 +4550,7 @@ button::-moz-focus-inner {
 
 
 
-/* bg*/
+/* bg
 @keyframes move {
   100% {
       transform: translate3d(0, 0, 1px) rotate(360deg);
@@ -4822,7 +4822,7 @@ button::-moz-focus-inner {
   animation-delay: -20s;
   transform-origin: -16vw 25vh;
   box-shadow: -40vmin 0 5.655115063706372vmin currentColor;
-}
+} */
 /* .background span:nth-child(27) {
   color: #787A91;
   top: 54%;
